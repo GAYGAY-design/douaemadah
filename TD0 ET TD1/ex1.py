@@ -1,0 +1,6 @@
+A=int(input("A="))
+T=int(input("T="))
+G=int(input("G="))
+C=int(input("C="))
+M=(A*313+T*304+G*329+C*289)
+print("la masse molaire est ",M,"g/mol")
